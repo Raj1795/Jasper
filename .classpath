@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Karthi/Downloads/jasperreports-6.7.0-project/jasperreports-6.7.0/dist/jasperreports-6.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthi/Downloads/jasperreports-6.7.0-project/jasperreports-6.7.0/dist/jasperreports-fonts-6.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthi/Downloads/jasperreports-6.7.0-project/jasperreports-6.7.0/dist/jasperreports-javaflow-6.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse_ee/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthi/Downloads/commons-digester-2.1.jar/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse_ee/plugins/org.apache.commons.collections_3.2.0.v2013030210310.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthi/Downloads/org.apache.commons.beanutils.jar/org.apache.commons.beanutils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthi/Downloads/com.lowagie.text-2.1.7.jar/com.lowagie.text-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Karthi/Downloads/Jasper Jars/htmlcomponent.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
