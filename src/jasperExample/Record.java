@@ -5,12 +5,14 @@ public class Record {
 	private String name;
 	private String department;
 	private String email;
+	private int number;
 	
-	public Record(String id, String name , String department , String email){
+	public Record(String id, String name , String department , String email, int number){
 	this.id = id;
 	this.name = name;
 	this.department = department;
 	this.email = email;
+	this.number= number;
 	}
 	
 	  public String getId() {
@@ -36,6 +38,12 @@ public class Record {
 	}
 	public void setEmail(String email) {
 	this.email = email;
+	}
+	public int getNumber() {
+	return number;
+	}
+	public void setNumber(int number) {
+	this.number = number;
 	}
 	}
 
